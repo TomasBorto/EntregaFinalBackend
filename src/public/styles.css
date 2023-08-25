@@ -1,0 +1,35 @@
+.mail {
+  color: blue;
+}
+.fecha {
+  color: brown;
+}
+.mensaje {
+  color: green;
+}
+.mensaje-container {
+  background-color: lightsteelblue;
+}
+.flex {
+  display: inline-flex;
+}
+.bg-color {
+  background-color: #fff;
+}
+.table-text {
+  vertical-align: middle;
+  font-weight: 500;
+}
+.table-img {
+  width: 50px;
+  height: 50px;
+}
+.input-size-xs {
+  width: 100px;
+}
+.input-size-m {
+  width: 500px;
+}
+.input-size-l {
+  width: 700px;
+}
