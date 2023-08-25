@@ -8,7 +8,7 @@ Se pueden indicar las siguientes opciones como variable de entorno, al momento d
 1. Entorno de desarollo => dev ó prod => por defecto levanta en modo desarrollo => se puede elegir asi => NODE_ENV=dev npm run start
 2. Puerto => por defecto esta en el 8080 => se puede elegir asi => PORT=5050 npm run start
 3. Tipo persistencia => por defecto esta mongoDB y es la única que está implementada, pero hay un factory implementado y en caso de que se quiera agregar otro tipo se puede indicar asi => DB_NAME=mysql npm run start
-4. Mail y Teléfono administrador => ya tienen valores por defecto pero se pueden reemplazar asi => ADMIN_MAIL=admin@gmail.com ADMIN_TEL=1144445555 npm run start (en caso de cambiar el mail, hay que setear una nueva password para el mismo para que permita enviar los mails sin problemas).
+4. Mail y Teléfono administrador => ya tienen valores por defecto pero se pueden reemplazar asi => ADMIN_MAIL=bptomy1@gmail.com ADMIN_TEL=1187346834 npm run start (en caso de cambiar el mail, hay que setear una nueva password para el mismo para que permita enviar los mails sin problemas).
 
 ## Consideraciones del proyecto
 
