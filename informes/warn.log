@@ -27,3 +27,56 @@
 {"level":"error","name":"Not Implemented","status":404}
 {"level":"error","name":"Not Implemented","status":404}
 {"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not found","status":404}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Error","status":500}
+{"body":"{\n  \"products\" : [\"64e615d7c71e74db24a1da19\"],\n  \"user\" : {\n    \"fullName\" : \"tomasborto\",\n        \"fullName\" : \"tomasborto\",\n    \n  }\n}","expose":true,"level":"error","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Invalid Token","status":401}
+{"level":"error","name":"Invalid Token","status":401}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Bad request","status":400}
+{"body":"{\n  \"products\" : [\"64e6765b732f98cda7711b01\"],\n  \"user\" : {\n  \n  \"fullName\": \"tomasborto\",\n  \"email\": \"bptomy1@gmail.com\",\n  \"phone\": \"1187346834\",\n  \"address\": \"cerrito 1567\",\n  },\n  \n  \n}","expose":true,"level":"error","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Not Implemented","status":404}
+{"level":"error","name":"Bad request","status":400}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not found","status":404}
+{"level":"error","name":"Error","status":500}
+{"level":"error","name":"Not found","status":404}
+{"level":"error","name":"Bad request","status":400}

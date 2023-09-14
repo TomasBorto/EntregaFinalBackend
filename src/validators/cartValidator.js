@@ -3,7 +3,7 @@ import { ErrorCustom } from "../helpers/errorCustom.js";
 
 function createCartValidator(req, res, next) {
   const createCartSchema = Joi.object({
-    products: Joi.array().min(1).required(),
+    products: Joi.array().min(0).required(),
     user: {
       fullName: Joi.string().lowercase().trim().required().max(100),
       email: Joi.string().lowercase().trim().email().required().max(200),
